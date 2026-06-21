@@ -11,9 +11,9 @@ link.innerText = "Acesse a Proz Educação";
 
 // Adicionando itens à lista não ordenada
 listaNaoOrdenada.innerHTML = `
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li>Instituição de Ensino</li>
+    <li>Perfil de aluno</li>
+    <li>ArcelorMittal Brasil</li>
 `;
 
 // Adicionando itens com links à lista ordenada
